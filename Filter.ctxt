@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Filter
+comment0.text=\r\n\ Filter\ es\ una\ superclase\ abstracta\ para\ todos\ los\ filtros\ de\ imagen\ en\ este\r\n\ solicitud.\ Los\ filtros\ se\ pueden\ aplicar\ a\ OFImages\ invocando\ la\ aplicaci\u00F3n\r\n\ m\u00E9todo.\r\n
+comment1.params=name
+comment1.target=Filter(java.lang.String)
+comment1.text=\r\n\ Crea\ un\ nuevo\ filtro\ con\ un\ nombre\ dado.\r\n\ @param\ nombre\ El\ nombre\ del\ filtro.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Devuelve\ el\ nombre\ de\ este\ filtro.\r\n\r\n\ @return\ El\ nombre\ de\ este\ filtro.\r\n
+comment3.params=image
+comment3.target=void\ apply(OFImage)
+comment3.text=\r\n\ Aplica\ este\ filtro\ a\ una\ imagen.\r\n\r\n\ @param\ image\ La\ imagen\ que\ cambiar\u00E1\ este\ filtro.\r\n
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EdgeFilter
+comment1.params=name
+comment1.target=EdgeFilter(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ EdgeFilter.\r\n\ @param\ nombre\ El\ nombre\ del\ filtro.\r\n
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+comment2.text=\r\n\ Aplica\ este\ filtro\ a\ una\ imagen.\r\n\r\n\ @param\ image\ La\ imagen\ que\ cambiar\u00E1\ este\ filtro.\r\n
+comment3.params=xpos\ ypos
+comment3.target=java.awt.Color\ edge(int,\ int)
+comment3.text=\r\n\ Devuelve\ un\ nuevo\ color\ que\ es\ el\ color\ suavizado\ de\ un\ determinado\r\n\ posici\u00F3n.\ El\ "color\ suavizado"\ es\ el\ valor\ de\ color\ que\ es\ el\r\n\ promedio\ de\ este\ p\u00EDxel\ y\ todos\ los\ p\u00EDxeles\ adyacentes.\r\n\ @param\ xpos\ La\ posici\u00F3n\ x\ del\ p\u00EDxel.\r\n\ @param\ ypos\ La\ posici\u00F3n\ y\ del\ p\u00EDxel.\r\n\ @return\ El\ color\ suavizado.\r\n
+comment4.params=pixels
+comment4.target=int\ diffRed(java.util.List)
+comment4.text=\r\n\ @param\ pixels\ La\ lista\ de\ p\u00EDxeles\ a\ promediar.\r\n\ @return\ El\ promedio\ de\ todos\ los\ valores\ rojos\ en\ la\ lista\ dada\ de\ p\u00EDxeles.\r\n
+comment5.params=pixels
+comment5.target=int\ diffGreen(java.util.List)
+comment5.text=\r\n\ @param\ pixels\ La\ lista\ de\ p\u00EDxeles\ a\ promediar.\r\n\ @return\ El\ promedio\ de\ todos\ los\ valores\ verdes\ en\ la\ lista\ dada\ de\ p\u00EDxeles.\r\n
+comment6.params=pixels
+comment6.target=int\ diffBlue(java.util.List)
+comment6.text=\r\n\ @param\ pixels\ La\ lista\ de\ p\u00EDxeles\ a\ promediar.\r\n\ @return\ El\ promedio\ de\ todos\ los\ valores\ azules\ en\ la\ lista\ dada\ de\ p\u00EDxeles.\r\n
+numComments=7

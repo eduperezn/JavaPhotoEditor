@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ThresholdFilter
+comment1.params=name
+comment1.target=ThresholdFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3

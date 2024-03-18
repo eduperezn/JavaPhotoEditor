@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FishEyeFilter
+comment1.params=name
+comment1.target=FishEyeFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+comment3.params=width
+comment3.target=int[]\ computeXArray(int)
+comment4.params=height
+comment4.target=int[]\ computeYArray(int)
+numComments=5

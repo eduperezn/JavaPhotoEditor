@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InvertFilter
+comment1.params=name
+comment1.target=InvertFilter(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InvertFilter.\r\n\ @param\ name\ The\ name\ of\ the\ filter.\r\n
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3

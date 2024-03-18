@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ImageFileManager
+comment0.text=\r\n\ En\ esta\ clase\ se\ usan\ metodos\ estaticos\ para\ cargar\ y\ guardar\ las\ imagenes\r\n\ \r\n\ El\ formato\ se\ define\ por\ IMAGE_FORMAT\ y\ solo\ recibe\ formatos\ de\ imagen\r\n
+comment1.params=imageFile
+comment1.target=OFImage\ loadImage(java.io.File)
+comment1.text=\r\n\ Lee\ un\ archivo\ de\ imagen\ en\ los\ archivos\ y\ lo\ devuelve\ como\ una\ imagen.\r\n\ Los\ formatos\ disponibles\ son\ JPG\ y\ PNG,\ si\ el\ archivo\ no\ es\ compatible\r\n\ este\ metodo\ devuelve\ 'null'\r\n\ \r\n\ @param\ imageFile\ \ Es\ el\ archivo\ que\ se\ va\ a\ cargar\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ Si\ no\ se\ pudo\ entonces\ devuelve\ 'null'\r\n
+comment2.params=image\ file
+comment2.target=void\ saveImage(OFImage,\ java.io.File)
+comment2.text=\r\n\ Escribe\ un\ archivo\ de\ imagen\ en\ el\ disco.\ el\ formato\ es\ JPG\r\n\ @param\ image\ Es\ la\ imagen\ que\ se\ va\ a\ guardar\r\n\ @param\ file\ El\ archivo\ para\ guardar\r\n
+numComments=3

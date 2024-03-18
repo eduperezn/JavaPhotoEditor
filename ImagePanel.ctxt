@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ImagePanel
+comment0.text=\r\n\ Un\ ImagePanel\ es\ un\ componente\ Swing\ que\ puede\ mostrar\ una\ OFImage.\r\n\ Se\ contruye\ como\ una\ clase\ JComponent\r\n
+comment1.params=
+comment1.target=ImagePanel()
+comment1.text=\r\n\ Crea\ un\ ImagePanel,\ nuevo\ y\ vacio.\r\n
+comment2.params=image
+comment2.target=void\ setImage(OFImage)
+comment2.text=\r\n\ La\ imagen\ que\ debe\ mostrar\ el\ panel.\r\n\ \r\n\ @param\ image\ \ Es\ la\ imagen\ que\ se\ mostrar\u00E1.\r\n
+comment3.params=
+comment3.target=void\ clearImage()
+comment3.text=\r\n\ Borra\ la\ imagen\ del\ panel.\r\n
+comment4.params=
+comment4.target=java.awt.Dimension\ getPreferredSize()
+comment4.text=\r\n\ (This\ method\ gets\ called\ by\ layout\ managers\ for\ placing\r\n\ the\ components.)\r\n\ \r\n\ @return\ La\ dimensi\u00F3n\ preferida\ para\ este\ componente.\r\n
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment5.text=\r\n\ Copia\ la\ imagen\ interna\r\n\ Llamamos\ este\ metodo\ con\ Swing\r\n
+numComments=6
